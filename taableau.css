@@ -1,0 +1,70 @@
+table {
+    width: 50px;
+    margin: auto;
+  }
+  td,
+  th {
+    padding: 20px;
+  
+  }
+  
+  tfoot {
+    background-color: greenyellow;
+  }
+  /* 
+  .yellow {
+    background-color: yellow;
+  }
+  .white {
+    background-color: white;
+  }
+  
+  .blanc {
+    background-color: white;
+  }
+  .jaune1 {
+    background-color: yellow;
+  }
+  .gris {
+    background-color: gray;
+  }
+  .jaune2 {
+    background-color: yellow;
+  }
+  .blanc2 {
+    background-color: white;
+  } */
+  
+  .tt{
+      background-color: black;
+  }
+  .ll{
+      background-color: white;
+  }
+  .bb{
+      background-color: white;
+  }
+  .mm{
+      background-color: black
+  }
+  .rr{
+      background-color: black;
+  }
+  .pp{
+      background-color: black;
+  }
+  .ff{
+      background-color: black;
+  }
+  .rr{
+      background-color: blue;
+  }
+  .ee{
+      background-color: black;
+  }
+  .yellow{
+      background-color: yellow;
+  }
+  .grey{
+      background-color: gray;
+  }

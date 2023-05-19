@@ -1,0 +1,12 @@
+tfoot{
+    background-color: green;
+}
+table {
+    width: 50px;
+    margin: auto;
+  }
+  td,
+  th {
+    padding: 20px;
+  
+  }
